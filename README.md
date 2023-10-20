@@ -1,25 +1,26 @@
-### Hi there 👋
+# Hey there! 👋 I'm Romain Mornet
 
-Me llamo Romain Mornet, soy francés. tengo 31 años y vivo en argentina.
+Born and bred in 🇫🇷 France, currently soaking up the vibes in Montpellier. I'm 32, and I've got a knack for UI/UX design and programming. When I'm not pushing pixels or writing lines of code, you might find me whipping up something delicious in the kitchen, catching a flight to a new destination, jamming to some tunes, or getting a good workout at the gym.
 
-Estoy estudiando diseño ui/ux y programación . 
-### Aprendiendo los lenguajes: 
-- html
-- css
+## Technical Skills:
+- **Programming Languages:** 
+  - HTML
+  - CSS
+- **Design Tools:** 
+  - Figma
+  - Adobe XD
+  - Photoshop
+  - Illustrator
 
-### progamas de diseno:
-- figma 
-- adobe XD 
-- photoshop 
-- illutrator.
+## Personal Interests:
+- 🍲 Cooking
+- ✈️ Traveling
+- 🎵 Listening to music
+- 🏋️ Going to the gym
 
-### las cosas que me gustan son :
-- cocinar 
-- viajar ![alt](./2530820_airplane_airplane%20mode_general_office_plane_icon.png)
-- escuchar musica 
-- ir al gym.
+📧 **Contact:** [Insert your preferred contact method here].
 
-#### Para contactarme [![alt](./4975304_contact_email_gmail_inbox_mail_icon.png)](mailto:mornet.romain2@gmail.com)
+
 
 
 <!--
