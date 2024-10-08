@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Romain Mornet
 
-Born and bred in 🇫🇷 France, currently soaking up the vibes in Montpellier. I'm 32, and I've got a knack for UI/UX design and programming. When I'm not pushing pixels or writing lines of code, you might find me whipping up something delicious in the kitchen, catching a flight to a new destination, jamming to some tunes, or getting a good workout at the gym.
+Born and bred in 🇫🇷 France, currently soaking up the vibes in Montpellier. I'm 32, and I've got a knack for UI/UX design and programming. When I'm not pushing pixels or writing lines of code, you might find me whipping up something delicious in the kitchen, catching a flight to a new destination, jamming to some tunes
 
 ## Technical Skills:
 - **Programming Languages:** 
